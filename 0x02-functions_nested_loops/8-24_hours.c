@@ -2,7 +2,8 @@
 
 /**
  * jack_bauer - function that prints 24hrs time
- * Return: 0 always
+ * 
+ * Return: always 0;
  */
 
 void jack_bauer(void)
