@@ -5,8 +5,6 @@
  *
  * @a: function parameter
  *
- * @c: parameter to be printed
- *
  * Return: c always
  */
 
