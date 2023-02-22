@@ -2,7 +2,7 @@
 
 /**
  * jack_bauer - function that prints 24hrs time
- * 
+ *
  * Return: always 0;
  */
 
